@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hobbies/static/css/main.f855e6bc.css",
+    "main.js": "/hobbies/static/js/main.6f1f2ee9.js",
+    "index.html": "/hobbies/index.html",
+    "main.f855e6bc.css.map": "/hobbies/static/css/main.f855e6bc.css.map",
+    "main.6f1f2ee9.js.map": "/hobbies/static/js/main.6f1f2ee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6f1f2ee9.js"
+  ]
+}
